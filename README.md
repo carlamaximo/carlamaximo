@@ -1,9 +1,11 @@
 ### Olá, eu sou a Carla Máximo!
 
+##
+
 - 🌱 Atualmente estudando JavaScript
 - 😄 Pronomes: Ela/Dela
 - ⚡ Fato curioso: Sou vegana!
-
+ 
 <div>
   <a href="https://github.com/carlamaximo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlamaximo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
