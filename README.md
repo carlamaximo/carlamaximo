@@ -5,6 +5,7 @@
 - :closed_book: I'm currently learning Development Web at Trybe
 - 😄 Pronouns: She/ Her
 - ⚡ Curious fact: I'm vegan!
+- :mailbox: Contact me: carladmaximo@gmail.com
  
 <div>
   <a href="https://github.com/carlamaximo">
