@@ -1,10 +1,10 @@
-### Olá, eu sou a Carla Máximo!
+### Hi, I am Carla Máximo!
 
 ##
 
-- 🌱 Atualmente estudando JavaScript
-- 😄 Pronomes: Ela/Dela
-- ⚡ Fato curioso: Sou vegana!
+- :closed_book: I'm currently learning Development Web at Trybe
+- 😄 Pronouns: She/ Her
+- ⚡ Curious fact: I'm vegan!
  
 <div>
   <a href="https://github.com/carlamaximo">
