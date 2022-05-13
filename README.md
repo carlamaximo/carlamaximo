@@ -3,6 +3,7 @@
 ##
 
 - :closed_book: I'm currently learning Development Web at Trybe
+- :computer: Web Developer at ZapSign
 - 😄 Pronouns: She/ Her
 - ⚡ Curious fact: I'm vegan!
 - :mailbox: Contact me: carladmaximo@gmail.com
