@@ -2,7 +2,7 @@
 
 ##
 
-- :computer: Web Developer at ZapSign
+- :computer: Web Developer at Truora
 - 😄 Pronouns: She/ Her
 - ⚡ Curious fact: I'm vegan!
 - :mailbox: Contact me: carladmaximo@gmail.com
