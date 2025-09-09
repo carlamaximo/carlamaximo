@@ -6,6 +6,7 @@
 - 😄 Pronouns: She/ Her
 - ⚡ Curious fact: I'm vegan and half-marathonist!
 - :mailbox: Contact me: carladmaximo@gmail.com
+- Currently pursuing a degree in Artificial Intelligence.
  
 <div>
   <a href="https://github.com/carlamaximo">
